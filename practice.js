@@ -1,7 +1,8 @@
 //Once you complete a problem, open up Chrome and check the answer in the console.
 
 
-//Create an object called me. Give it a key of name with the value being your name, and another key of age with the value being your age. Then alert your name using dot notation.
+//Create an object called me. Give it a key of name with the value being your name, and another key of age with the value 
+being your age. Then alert your name using dot notation.
 
   //Code here
 
@@ -13,17 +14,20 @@
 
 
 
-//Make a 'favoriteThings' object that contains the following keys: band, food, person, book, movie, holiday. Have the values to those keys be your favorite thing in that category.
+//Make a 'favoriteThings' object that contains the following keys: band, food, person, book, movie, holiday. Have the 
+values to those keys be your favorite thing in that category.
 
   //Code here
 
 
-//After you've made your object, add another key named 'car' with the value being your favorite car and then another key named 'brand' with the value being your favorite brand.
+//After you've made your object, add another key named 'car' with the value being your favorite car and then another key 
+named 'brand' with the value being your favorite brand.
 
   //Code here
 
 
-//Now change the food key in your favoriteThings object to be 'Lettuce' and change the book key in your favoriteThings object to be '50 Shades of Gray'.
+//Now change the food key in your favoriteThings object to be 'Lettuce' and change the book key in your favoriteThings 
+object to be '50 Shades of Gray'.
 
   //Code here
 
@@ -62,7 +66,8 @@ Instead, console.log your whole backPack object and then check out the console. 
 
 
 
-//Create another 'me' object with the following properties name, age, height, gender, married, eyeColor, hairColor. Fill those properties in with the appropriate values.
+//Create another 'me' object with the following properties name, age, height, gender, married, eyeColor, hairColor. Fill 
+those properties in with the appropriate values.
 
   //Code Here
 
@@ -78,7 +83,8 @@ Instead, console.log your whole backPack object and then check out the console. 
 
 
 
-//Create an Object called 'album' with 5 keys named different song titles that you make up, with the values being the length of each song.
+//Create an Object called 'album' with 5 keys named different song titles that you make up, with the values being the 
+length of each song.
 
   //Code Here
 
@@ -94,7 +100,8 @@ Instead, console.log your whole backPack object and then check out the console. 
 
 
 
-//Create an object called states that has 5 US states as properties with the values being their population (doesn't have to be accurate).
+//Create an object called states that has 5 US states as properties with the values being their population (doesn't 
+have to be accurate).
 
   //Code Here
 
@@ -123,7 +130,8 @@ that each value is truthy. If it's not truthy, remove it from the object. */
 
   //Code Here
 
-//Once you get your truthy Object, Change the remaining values in the object to be specific to you (name: 'your name', username: 'your username'), rather than my information.
+//Once you get your truthy Object, Change the remaining values in the object to be specific to you (name: 'your name', 
+username: 'your username'), rather than my information.
 
   //Code Here
 
