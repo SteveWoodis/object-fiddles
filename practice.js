@@ -134,7 +134,7 @@ Alaska: 5400
 //Now, loop through your states object and if the states population is greater than 30K,
 //alert that state.
 
-  //Code Here
+   //Code Here
 
 for(key in states){
     if(states[key] > 10000){
